@@ -47,3 +47,16 @@ header {
   padding: .5em;
   color: #fff;
 }
+
+nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  font-size: 1.125rem;
+}
+
+nav li {
+  width: 100%;
+}
