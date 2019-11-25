@@ -38,4 +38,12 @@ header h1 {
   background-color: #18294f;
   padding: .5em;
   color: #fff;
+  font-weight: bold;
+  margin: 9rem;
+}
+
+header {
+  background-color: #18294f;
+  padding: .5em;
+  color: #fff;
 }
